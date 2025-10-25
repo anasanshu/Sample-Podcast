@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  
   <channel>
     <title>Sample Podcast Title By Anas</title>
     <link><![CDATA[https://6abc.com/feed]]>
